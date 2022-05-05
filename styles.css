@@ -1,0 +1,28 @@
+.div1{
+    height: 300px;
+    width: 20%;
+    background-color:lightblue;
+    display: block;
+    float: left;
+    margin-left: 20%;
+}
+
+.div2{
+    height: 300px;
+    width: 20%;
+    background-color:rgb(40, 97, 116);
+    display: block;
+    float: left;
+    margin-left: 20%;  
+}
+
+.botoncito{
+    height: 10%;
+    width: 10%;
+    background-color:lightslategrey;
+    border-radius: 60px;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 4%;
+
+}
